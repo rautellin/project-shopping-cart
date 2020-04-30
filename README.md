@@ -4,7 +4,7 @@ A simple eCommerce shop with the functionality of adding and removing products a
 
 ## View it live
 
-
+https://rautellin-shopping-cart.netlify.app/
 
 ## What I got to learn 🧠
 
